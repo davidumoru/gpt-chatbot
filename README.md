@@ -2,8 +2,6 @@
 
 # gpt-chatbot
 
-#### The repository holds the backend files for Learnify.
-
 </div>
 
 ## Installation
